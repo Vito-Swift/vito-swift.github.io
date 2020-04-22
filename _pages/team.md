@@ -142,7 +142,7 @@ Jump to [Director](#director), [Students](#master-and-bachelor-students), [alumn
 
 
 ## Alumni
-
+<!---
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
 
@@ -203,3 +203,4 @@ Jump to [Director](#director), [Students](#master-and-bachelor-students), [alumn
 
 ## Administrative Support
 <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+--->
