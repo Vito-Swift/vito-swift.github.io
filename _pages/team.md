@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **We are looking for undergraduate students who has strong interests in computer systems and high performance computing to join our group** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are looking for undergraduate students who have strong interests in computer systems and high performance computing to join our group** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 Jump to [Director](#director), [Students](#master-and-bachelor-students), [alumni](#alumni)
