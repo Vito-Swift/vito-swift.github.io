@@ -78,7 +78,7 @@ Jump to [Director](#director), [Students](#master-and-bachelor-students), [alumn
 
 
 
-## Master and Bachelor Students
+## Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
