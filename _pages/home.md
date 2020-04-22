@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "CUHK-Shenzhen Supercomputing - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Supercomputing Group at CUHK-Shenzhen."
 sitemap: false
 permalink: /
 ---
