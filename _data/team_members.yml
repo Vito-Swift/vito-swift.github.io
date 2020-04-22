@@ -2,8 +2,10 @@
   photo: yehchingchung.jpg
   info: Professor, Director
   email: ychung@cuhk.edu.cn
-  number_educ: 1
+  number_educ: 3
   education1: Ph.D., School of Computer & Information Science, Syracuse University
+  education2: M.S., School of Computer & Information Science, Syracuse University
+  education3: B.S., Department of Information Engineering, Chung Yuan Christian University 
 
 - name: Yong-Gang Li
   photo: yonggangli.jpg
