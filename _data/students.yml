@@ -13,49 +13,49 @@
   info: Junior, Team Leader
   email: chenhaowu@link.cuhk.edu.cn
   number_educ: 1
-  education1: Major: Computer Science and Engineering
+  education1: "Major: Computer Science and Engineering"
 
 - name: Wei-Dong Gao
   photo: weidonggao.jpg
   info: Junior, Associate Team Leader
   email: weidonggao@link.cuhk.edu.cn
   number_educ: 1
-  education1: Major: Computer Science and Engineering
+  education1: "Major: Computer Science and Engineering"
 
 - name: Xuan-Chen Wu
   photo: xuanchenwu.jpg
   info: Junior, Associate Team Leader
   email: xuanchenwu@link.cuhk.edu.cn
   number_educ: 1
-  education1: Major: Computer Science and Engineering
+  education1: "Major: Computer Science and Engineering"
 
 - name: Ze-Yin Zhang
   photo: zeyinzhang.jpg
   info: Sophomore
   email: zeyinzhang@link.cuhk.edu.cn
   number_educ: 1
-  education1: Major: Computer Science and Engineering
+  education1: "Major: Computer Science and Engineering"
 
 - name: Hao-Tian Xie
   photo: haotianxie.jpg
   info: Sophomore
   email: haotianxie@link.cuhk.edu.cn
   number_educ: 1
-  education1: Major: Computer Science and Engineering
+  education1: "Major: Computer Science and Engineering"
 
 - name: Jie-Kun Yang
   photo: jiekunyang.jpg
   info: Sophomore
   email: jiekunyang@link.cuhk.edu.cn
   number_educ: 1
-  education1: Major: Computer Science and Engineering
+  education1: "Major: Computer Science and Engineering"
 
 - name: Su-Pei Yang
   photo: supeiyang.jpg
   info: Sophomore
   email: supeiyang@link.cuhk.edu.cn
   number_educ: 1
-  education1: Major: Computer Science and Engineering
+  education1: "Major: Computer Science and Engineering"
 
 - name: Hao-Wen Yang
   photo: haowenyang.jpg
@@ -68,4 +68,3 @@
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
   email: milan.allan@gmail.com
   number_educ: 0
-
