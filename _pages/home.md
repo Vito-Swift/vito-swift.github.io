@@ -63,6 +63,6 @@ In phase I, we have built a mini-cluster of 40 CPU cores, along with 12 dedicate
 We are grateful for funding from Huawei and School of Science and Engineering in CUHK-Shenzhen. 
 
 <figure class="second">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cuhksz.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cuhksz.png" style="width: 220px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/huawei.png" style="width: 100px">
 </figure>
