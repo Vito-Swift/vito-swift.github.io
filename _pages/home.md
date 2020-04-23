@@ -64,5 +64,5 @@ We are grateful for funding from Huawei and School of Science and Engineering in
 
 <figure class="second">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cuhksz.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/huawei.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/huawei.png" style="width: 100px">
 </figure>
