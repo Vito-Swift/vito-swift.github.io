@@ -23,8 +23,8 @@ Undergraduate students are the major part of our team, we are always looking for
 
 or if you have experience in any following skills
 
-- Software Development on Linux Operating System
-- MPI, OpenMP, Pthread
+- Software development on Linux operating system
+- MPI, OpenMP, pthread, OpenACC, OpenCL
 - CUDA programming
 - SIMD programming
 

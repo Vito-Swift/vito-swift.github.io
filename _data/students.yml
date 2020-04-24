@@ -65,6 +65,6 @@
 
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
+  info: See <a href="{{ site.url }}{{ site.baseurl }}/joinus">Join Us</a> for more info
+  email: cscg2020@outlook.com
   number_educ: 0
