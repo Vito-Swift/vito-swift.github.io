@@ -14,7 +14,7 @@ You will have the chance to work on the grand challenges of high performance com
 
 ### For Undergraduate Student in CUHK-Shenzhen
 
-Undergraduate students are the major part of our team, we are always looking for students with strong engineering skills and interests to join our team. If you are interested to any following aspects:
+Undergraduate students are the major part of our team, we are always looking for students with strong engineering skills and interests to join our team. If you are interested to any following topics:
 
 - High Performance Computing
 - Parallel Computing
@@ -30,13 +30,13 @@ or if you have experience in any following skills
 
 please don't hesitate to send your resume with a short description to [cscg2020@outlook.com](mailto://cscg2020@outlook.com). 
 
-To make some difference with other tracks, please tag your email with *[Undergrad]* in the title. Alternatively, you can drop by our office at anytime, we will walk you around our office and go through what we are currently doing. 
+To make some difference with other tracks, please tag your email with [Undergrad] in the title. Alternatively, you can drop by our office at anytime, we will walk you around our office and go through what we are currently doing. 
 
 ### For Ph.D Students and Visiting Scholars in CUHK-Shenzhen
 
-We are always looking for Ph.D students and visiting scholars in related area to provide professional guidance to our undergraduate team members. We have many top-tier student cluster competitions on preparation, if you are currently a scholar on campus and interested in participating any one competition as group advisers with us, please don't hesitate to send your resume with a short description to [cscg2020@outlook.com](mailto://cscg2020@outlook.com). 
+We are always looking for Ph.D students and visiting scholars in related area to provide professional guidance to our undergraduate team members. We have many top-tier student cluster competitions on preparation, if you are currently a scholar on campus and interested in participating any one competition as group advisers, please don't hesitate to send your resume with a short description to [cscg2020@outlook.com](mailto://cscg2020@outlook.com). 
 
-To make some difference with other tracks, please tag your email with *[Scholar]* in the title. Alternatively, you can drop by our office at anytime, we will walk you around our office and go through what we are currently doing. 
+To make some difference with other tracks, please tag your email with [Scholar] in the title. Alternatively, you can drop by our office at anytime, we will walk you around our office and go through what we are currently doing. 
 
 ### For Vendors
 We are always seeking for sponsorship from vendors and companies. 
