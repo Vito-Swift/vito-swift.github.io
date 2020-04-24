@@ -20,6 +20,7 @@ Undergraduate students are the major part of our team, we are always looking for
 - Parallel Computing
 - Distributed System
 - Computer Hardware
+- Computer Architecture and Systems
 
 or if you have experience in any following skills
 
@@ -27,6 +28,7 @@ or if you have experience in any following skills
 - MPI, OpenMP, pthread, OpenACC, OpenCL
 - CUDA programming
 - SIMD programming
+- FPGA programming
 
 please don't hesitate to send your resume with a short description to [cscg2020@outlook.com](mailto://cscg2020@outlook.com). 
 
