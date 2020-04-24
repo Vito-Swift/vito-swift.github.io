@@ -1,11 +1,11 @@
 - name: Chang-Cheng Yuan
-  photo: changchengyuan.jpg
+  photo: changchengyuan.png
   duration: In the Supercomputing Group 2019 - 2020, upcoming Master student at UC Davis
   # info: Upcoming Master Student at UC Davis
   email: changchengyuan@link.cuhk.edu.cn
 
 - name: Tian-Yi Xu
-  photo: tianyixu.jpg
+  photo: tianyixu.png
   # info: PhD student
   duration: In the Supercomputing Group 2019 - 2020, upcoming Master student at Boston University
   email: tianyixu@link.cuhk.edu.cn
@@ -15,6 +15,6 @@
   # education3: PhD Leiden University!
 
 - name: Yun-Teng Yang
-  photo: yuntengyang.jpg
+  photo: yuntengyang.png
   duration: "In the Supercomputing Group 2019 - 2020, first employer: JD.com"
   email: yuntengyang@link.cuhk.edu.cn
