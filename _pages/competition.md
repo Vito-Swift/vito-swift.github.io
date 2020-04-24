@@ -10,7 +10,7 @@ permalink: /competition/
 
 The Student Cluster Competition is an amazing way to teach students about High Performace Computing (HPC), Parallel Computing and Scientific Computing. Here at Supercomputing Group our mission is not only to support research faculty at the University but also to support students. The cluster competition is one way we do that.
 
-Our team are continually preparing and aiming for the top-tier student competitions. To help our future team members 
+Our team are continually preparing and aiming for the top-tier student competitions. Following is some of competitions we interested in.
 
 ### [1. ASC Student Supercomputer Challenge](http://www.asc-events.org/)
 
