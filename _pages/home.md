@@ -67,7 +67,7 @@ Here is our targeting competitions [(click here)]({{ site.url }}{{ site.baseurl 
 </div>
 
 
-In phase I, we have built a mini-cluster of 40 CPU cores, along with 12 dedicated Nvidia GPU cards. On phase I we have already performed many benchmarking and testing programs, more CPU and GPU resources are planned in phase II and phase III. Til 2021, we anticipate 400 CPU cores and 20 GPU cards be installed in our cluster. 
+In phase I, we have built a mini-cluster of 40 CPU cores, along with 12 dedicated Nvidia GPU cards. We have already performed many benchmarking and testing programs on the mini-cluster, and more CPU and GPU resources are planned in phase II and phase III. Til 2021, we anticipate 400 CPU cores and 20 GPU cards be installed in our cluster. 
 
  **We are looking for new undergraduate students to join our team**  **!** 
 
