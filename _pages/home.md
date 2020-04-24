@@ -35,7 +35,7 @@ Here is our targeting competitions [(click here)]({{ site.url }}{{ site.baseurl 
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/asc20_teampic.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/asc20_teampic.png" alt="Slide 1" />
         </div>
         <!-- <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/STS.jpg" alt="Slide 2" />

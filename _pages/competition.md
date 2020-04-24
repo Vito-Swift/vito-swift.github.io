@@ -18,13 +18,13 @@ The ASC Student Supercomputer Challenge is the world’s largest student superco
 
 ### [2. ISC Student Cluster Competition](https://www.isc-hpc.com/student-cluster-competition.html)
 
-The ISC-HPCAC Student Cluster Competition (SCC) encourages international teams of university students to showcase their expertise in a friendly yet spirited competition that fosters critical skills, professional relationships, competitive spirit and lifelong comraderies.
-
-An integral part of the ISC High Performance Conference and Exhibition the SCC will be held on June 17-19 in Frankfurt Germany.
+The ISC-HPCAC Student Cluster Competition (SCC) encourages international teams of university students to showcase their expertise in a friendly yet spirited competition that fosters critical skills, professional relationships, competitive spirit and lifelong comraderies. An integral part of the ISC High Performance Conference and Exhibition the SCC will be held on June 17-19 in Frankfurt Germany.
 
 ### [3. SC Student Cluster Competition](https://sc20.supercomputing.org/program/studentssc/student-cluster-competition/)
 
 The Student Cluster Competition (SCC) was developed in 2007 to provide an immersive high performance computing experience to undergraduate and high school students. With sponsorship from hardware and software vendor partners, student teams design and build small clusters, learn scientific applications, apply optimization techniques for their chosen architectures, and compete in a nonstop, 48-hour challenge at the SC conference to complete a real-world scientific workload, showing off their HPC knowledge for conference attendees and judges.
 
 ### [4. National Student Computer System Capability Challenge](http://www.nscscc.org/)
+
+National Student Computer System Capability Challenge was initialed in 2016 and encourage students to showcase their expertise in computer systems and architecture. To get more info about this competition, check [http://www.nscscc.org/](http://www.nscscc.org).
 
