@@ -1,17 +1,17 @@
 ---
 title: "CUHK-Shenzhen Supercomputing Group - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Supercomputing Group: Team members"
 sitemap: false
 permalink: /team/
 ---
 
 # Group Members
 
- **We are looking for undergraduate students who have strong interests in computer systems and high performance computing to join our group** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are looking for undergraduate students who have strong interests in computer systems and high performance computing to join our group** [(join us)]({{ site.url }}{{ site.baseurl }}/joinus) **!**
 
 
-Jump to [Director](#director), [Students](#master-and-bachelor-students), [alumni](#alumni)
+Jump to [Staff](#staff), [Students](#students), [alumni](#alumni)
 
 ## Staff
 {% assign number_printed = 0 %}

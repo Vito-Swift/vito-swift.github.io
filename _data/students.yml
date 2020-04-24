@@ -65,6 +65,6 @@
 
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="{{ site.url }}{{ site.baseurl }}/joinus">Join Us</a> for more info
+  info: See <a href="cuhksz-hpc.github.io/joinus">Join Us</a> for more info
   email: cscg2020@outlook.com
   number_educ: 0
