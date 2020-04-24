@@ -142,7 +142,7 @@ Jump to [Director](#director), [Students](#master-and-bachelor-students), [alumn
 
 
 ## Alumni
-<!---
+
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
 
@@ -174,6 +174,7 @@ Jump to [Director](#director), [Students](#master-and-bachelor-students), [alumn
 </div>
 {% endif %}
 
+<!---
 ## Former visitors, BSc/ MSc students
 <div class="row">
 
